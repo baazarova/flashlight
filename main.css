@@ -1,0 +1,22 @@
+.flash-body {
+    width: 250px;
+    color: slategray;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: slategray;
+}
+.flash {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: beige;
+
+ 
+}
